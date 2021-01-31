@@ -1,0 +1,15 @@
+[ERROR]2019/09/26 14:31:28 main.go:21: accept tcp [::]:8080: accept: too many open files in system
+[ERROR]2019/09/26 14:32:32 main.go:21: accept tcp [::]:8080: accept: too many open files in system
+[ERROR]2019/09/26 14:34:23 main.go:21: accept tcp [::]:8080: accept: too many open files in system
+[ERROR]2019/09/26 14:38:39 main.go:21: accept tcp [::]:8080: accept: too many open files in system
+[ERROR]2019/09/26 14:39:37 main.go:21: accept tcp [::]:8080: accept: too many open files in system
+[ERROR]2019/09/26 14:40:35 main.go:21: accept tcp [::]:8080: accept: too many open files in system
+[ERROR]2019/09/26 14:41:47 main.go:21: accept tcp [::]:8080: accept: too many open files in system
+[ERROR]2019/09/26 14:42:49 main.go:21: accept tcp [::]:8080: accept: too many open files in system
+[ERROR]2019/09/26 14:45:57 main.go:21: accept tcp [::]:8080: accept: too many open files in system
+[ERROR]2019/09/26 14:53:37 main.go:21: accept tcp [::]:8080: accept: too many open files in system
+[ERROR]2019/09/26 16:07:12 main.go:21: accept tcp [::]:8080: accept: too many open files in system
+[ERROR]2019/09/26 19:56:27 main.go:21: accept tcp [::]:8080: accept: too many open files in system
+
+[ERROR]2019/09/29 17:46:56 main.go:21: listen tcp :8080: bind: address already in use
+[ERROR]2021/01/30 18:59:22 logger.go:47: get latest times occur error, err: Get "http://10.10.10.10:8529/_db/erc20/_api/database/current": dial tcp 10.10.10.10:8529: connect: network is unreachable
